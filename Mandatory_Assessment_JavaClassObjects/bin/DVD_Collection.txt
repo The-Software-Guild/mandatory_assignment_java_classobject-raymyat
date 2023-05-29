@@ -2,5 +2,4 @@
 3748::The Godfather::1972-03-24::R::Francis Ford Coppola::Paramounts Pictures::9.7::
 2358::Forrest Gump::1994-07-06::PG13::Robert Zemeckis::The Tisch Company::8.8::
 3990::Parasite::2019-06-27::R::Bong Joon ho::Barunson E&A::8.5::
-8490::God City::2003-06-26::R::Fernando Meirelles::O2 Filmes VideoFilmes::8.6::
-234::Holy Gram::2003-06-26::PG13::Meriiole::O2 Filmes VideoFilmes::8.5::
+8490::City of gods::2003-06-26::R::Fernando Meirelles::O2 Filmes VideoFilmes::8.6::
